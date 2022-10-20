@@ -31,7 +31,7 @@ namespace AdvCSAnimals
         {
             outFile = new FileOutput("animals.txt");
             Console.WriteLine(p.getName() + " says=" + p.talk());
-             outFile.fileWrite(p.getName() + " | " + p.talk());
+             outFile.FileWrite(p.getName() + " | " + p.talk());
         }
         
     }
