@@ -15,7 +15,7 @@ public class FileInput
         }
     }
 
-    public void fileRead() {
+    public void FileRead() {
         string line;
         try {
             while ((line = _inReader.ReadLine()) != null) {
@@ -27,9 +27,9 @@ public class FileInput
         _inReader.Close();
     }
 
-    public String fileReadLine() {
+    public string? FileReadLine() {
         try {
-            String line = _inReader.ReadLine();
+            string? line = _inReader.ReadLine();
             return line;
         } catch (Exception e) {
             Console.WriteLine("File Write Error: " + _fileName + " " + e);
@@ -37,7 +37,7 @@ public class FileInput
         }
     }
 
-    public void fileClose() {
+    public void FileClose() {
         if (_inReader != null) {
             try {
                 _inReader.Close();

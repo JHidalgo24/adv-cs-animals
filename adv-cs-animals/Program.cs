@@ -20,8 +20,8 @@ namespace AdvCSAnimals
             }
             
             FileInput inData = new FileInput("animals.txt");
-            string line;
-            while ((line = inData.fileReadLine()) != null) {
+            string? line;
+            while ((line = inData.FileReadLine()) != null) {
                 Console.WriteLine(line);
             }
             
