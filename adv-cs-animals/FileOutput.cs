@@ -15,7 +15,7 @@ public class FileOutput
         using(FileStream stream = new FileStream(_fileName, FileMode.Append))
         using (_writer = new StreamWriter(stream))
         {
-            _writer.Write(line);
+            _writer.WriteLine(line);
         }
     }
 
