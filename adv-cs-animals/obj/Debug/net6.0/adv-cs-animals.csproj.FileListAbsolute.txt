@@ -1,0 +1,16 @@
+C:\Users\justi\RiderProjects\adv-cs-animals\adv-cs-animals\bin\Debug\net6.0\adv-cs-animals.exe
+C:\Users\justi\RiderProjects\adv-cs-animals\adv-cs-animals\bin\Debug\net6.0\adv-cs-animals.deps.json
+C:\Users\justi\RiderProjects\adv-cs-animals\adv-cs-animals\bin\Debug\net6.0\adv-cs-animals.runtimeconfig.json
+C:\Users\justi\RiderProjects\adv-cs-animals\adv-cs-animals\bin\Debug\net6.0\adv-cs-animals.dll
+C:\Users\justi\RiderProjects\adv-cs-animals\adv-cs-animals\bin\Debug\net6.0\adv-cs-animals.pdb
+C:\Users\justi\RiderProjects\adv-cs-animals\adv-cs-animals\obj\Debug\net6.0\adv-cs-animals.csproj.AssemblyReference.cache
+C:\Users\justi\RiderProjects\adv-cs-animals\adv-cs-animals\obj\Debug\net6.0\adv-cs-animals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\RiderProjects\adv-cs-animals\adv-cs-animals\obj\Debug\net6.0\adv-cs-animals.AssemblyInfoInputs.cache
+C:\Users\justi\RiderProjects\adv-cs-animals\adv-cs-animals\obj\Debug\net6.0\adv-cs-animals.AssemblyInfo.cs
+C:\Users\justi\RiderProjects\adv-cs-animals\adv-cs-animals\obj\Debug\net6.0\adv-cs-animals.csproj.CoreCompileInputs.cache
+C:\Users\justi\RiderProjects\adv-cs-animals\adv-cs-animals\obj\Debug\net6.0\adv-cs-animals.dll
+C:\Users\justi\RiderProjects\adv-cs-animals\adv-cs-animals\obj\Debug\net6.0\refint\adv-cs-animals.dll
+C:\Users\justi\RiderProjects\adv-cs-animals\adv-cs-animals\obj\Debug\net6.0\adv-cs-animals.pdb
+C:\Users\justi\RiderProjects\adv-cs-animals\adv-cs-animals\obj\Debug\net6.0\adv-cs-animals.genruntimeconfig.cache
+C:\Users\justi\RiderProjects\adv-cs-animals\adv-cs-animals\obj\Debug\net6.0\ref\adv-cs-animals.dll
+C:\Users\justi\RiderProjects\adv-cs-animals\adv-cs-animals\bin\Debug\net6.0\animals.txt
