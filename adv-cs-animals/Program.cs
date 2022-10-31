@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections;
+using adv_cs_animals;
 
 namespace AdvCSAnimals
 {
@@ -10,10 +11,21 @@ namespace AdvCSAnimals
 
         public static void Main(string[] args)
         {
+
+            UserInput userInput = new UserInput();
             List<Talkable> zoo = new List<Talkable>();
             zoo.Add(new Dog("Bean",true));
             zoo.Add(new Cat( "Charlie",9));
             zoo.Add(new Teacher("Stacy Read",44));
+            
+            var pet = userInput.userPrompt();
+            if (pet == null)
+            {
+                Console.Write("Your pet was not added to the list");
+                Console.WriteLine("");
+            }
+            else{zoo.Add(pet);}
+                
             
             foreach (var thing in zoo) {
                 printOut(thing);
